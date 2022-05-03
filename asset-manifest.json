@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BodyMassIndex-calculator/static/css/main.6be6d910.css",
+    "main.js": "/BodyMassIndex-calculator/static/js/main.92e2ae28.js",
+    "index.html": "/BodyMassIndex-calculator/index.html",
+    "main.6be6d910.css.map": "/BodyMassIndex-calculator/static/css/main.6be6d910.css.map",
+    "main.92e2ae28.js.map": "/BodyMassIndex-calculator/static/js/main.92e2ae28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be6d910.css",
+    "static/js/main.92e2ae28.js"
+  ]
+}
